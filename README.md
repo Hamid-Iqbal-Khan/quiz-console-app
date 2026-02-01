@@ -14,7 +14,7 @@ An interactive quiz built using Core Java that demonstrates object-oriented prog
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Java (Core Java)  
 - Object-Oriented Programming (OOP)  
@@ -22,7 +22,7 @@ An interactive quiz built using Core Java that demonstrates object-oriented prog
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 src/main/java/org/hamid/
 ├── Main.java
 ├── Question.java
