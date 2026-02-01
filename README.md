@@ -1,2 +1,41 @@
-# quiz-console-app
-Java Console Quiz App – An interactive quiz built with Core Java using OOP, arrays, and Scanner for user input. Features multiple-choice questions, real-time answers, and automatic scoring. Demonstrates class design, input handling, and basic business logic. Ideal for beginners and interview practice.
+# Java Console Quiz Application
+
+An interactive quiz built using Core Java that demonstrates object-oriented programming, array handling, and real-time user input with `Scanner`. The application uses `Main`, `Question`, and `QuestionService` classes to manage quiz flow, questions, and scoring.
+
+---
+
+## Features
+
+- Multiple-choice quiz questions  
+- Real-time user input via console  
+- Automatic score calculation  
+- Clean OOP-based structure  
+- Simple and beginner-friendly design  
+
+---
+
+## 🛠️ Tech Stack
+
+- Java (Core Java)  
+- Object-Oriented Programming (OOP)  
+- Console-based interaction  
+
+---
+
+## 📂 Project Structure
+src/main/java/org/hamid/
+├── Main.java
+├── Question.java
+└── QuestionService.java
+
+Question no. : 1
+Capital of India:
+Patna
+New Delhi
+Mumbai
+Lucknow
+Enter Your Answer: New Delhi
+
+Your score is : 1
+
+
